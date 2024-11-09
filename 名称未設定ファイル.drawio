@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="ページ1" id="zFpYDm-qR_UYr0OeiZkv">
-    <mxGraphModel>
+    <mxGraphModel dx="1232" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wtf4XKlz8lytCLyVRCq--10" value="" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=7;strokeColor=#d79b00;fillColor=#ffe6cc;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="550" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--2" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--3" value="利用者1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="495" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--4" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--5" value="スマホ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--7" value="データ入力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--12" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--13" value="実戦データ送信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--15" value="集計データ送信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="130" y="485" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--17" value="集計結果表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="525" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="515" y="565" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--19" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--20" value="ローカルサーバー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--21" value="リモートサーバー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--22" value="実戦データ送信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="555" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="265" y="670" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--24" value="フレンドの&lt;span style=&quot;background-color: initial;&quot;&gt;実戦データ送信&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="760" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--25" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#657db3;" vertex="1" parent="1">
+          <mxGeometry x="25" y="595" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--26" value="利用者2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--27" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="630" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--28" value="スマホ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wtf4XKlz8lytCLyVRCq--30" value="フレンドの&lt;span style=&quot;background-color: initial;&quot;&gt;集計結果表示&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
